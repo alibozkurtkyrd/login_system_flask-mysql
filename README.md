@@ -15,4 +15,4 @@ it meets all of our requirements below:
 
 
 ![](screen_shots/loginpage.png=250x250)
-<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/loginpage.png" width="250" height="250">
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/loginpage.png" width="400" height="500">
