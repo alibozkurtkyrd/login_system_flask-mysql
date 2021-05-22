@@ -16,3 +16,10 @@ it meets all of our requirements below:
 
 <img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/loginpage.png" width="700" height="350">
 <img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/signup_page.png" width="700" height="350">
+
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/MySQL_logintest-database.png" width="700" height="350">
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/upgrade.png" width="700" height="350">
+
+
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/welcome_page.png" width="700" height="350">
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/admin_page.png" width="700" height="350">
