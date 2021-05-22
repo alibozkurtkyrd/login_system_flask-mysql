@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+</head>
+<body>
+
+<form action="/auth" method="post" >
+  <div class="container">
+    <h1>welcome Admin page</h1>
+    <p>all users information below</p>
+    <hr>
+    <br>
+    {% for item in msg %}
+    
+    	<p>{{item}}</p>
+    {% endfor %}
+
+    
+    <br>
+    <br>
+   <div class="clearfix">
+      <button onclick="document.location='/'" type="button" class="cancelbtn">Cancel </button>
+   </div>
+   
+</form>
+
+</body>
+</html>
+

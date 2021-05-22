@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+</head>
+<body>
+
+<form action="/home" method="post" >
+  <div class="container">
+    <h1>welcome</h1>
+    <p>you have successfully enter home page.</p>
+    <hr>
+    <br>
+    <div class="msg">{{ msg }}</div>
+    
+    <br>
+    <br>
+   <div class="clearfix">
+      <button onclick="document.location='/'" type="button" class="cancelbtn">Cancel </button>
+   </div>
+   <br>
+   
+   <div class="clearfix">
+      <button onclick="document.location='/upgrade'" type="button" class="cancelbtn">upgrade </button>
+   </div>
+   <br>
+   <div class="clearfix">
+      <button onclick="document.location='/auth'" type="button" class="cancelbtn">Admin rights </button>
+   </div>
+</form>
+
+</body>
+</html>
+
