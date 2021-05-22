@@ -14,4 +14,4 @@ it meets all of our requirements below:
 * updating user details<br/>
 
 
-![](screen_shots/admin_page.png)
+![](screen_shots/login_page.png=250x250)
