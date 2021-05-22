@@ -14,5 +14,5 @@ it meets all of our requirements below:
 * updating user details<br/>
 
 
-![](screen_shots/loginpage.png=250x250)
 <img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/loginpage.png" width="700" height="350">
+<img src="https://github.com/alibozkurtkyrd/login_system_flask-mysql/blob/main/screen_shots/signup_page.png" width="700" height="350">
