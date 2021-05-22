@@ -8,7 +8,7 @@ This project has three pages:
 
 it meets all of our requirements below:
 
-reducing the errors that come from manually filling out forms<br/>
-gathering personal information like email, phone number, address etc<br/>
-surviving against SQL injection attacks<br/>
-updating user details<br/>
+* reducing the errors that come from manually filling out forms<br/>
+* gathering personal information like email, phone number, address etc<br/>
+* surviving against SQL injection attacks<br/>
+* updating user details<br/>
