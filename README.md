@@ -12,3 +12,6 @@ it meets all of our requirements below:
 * gathering personal information like email, phone number, address etc<br/>
 * surviving against SQL injection attacks<br/>
 * updating user details<br/>
+
+
+![](screen_shots/admin_page.png)
